@@ -16,7 +16,12 @@ ETL_Extract_SamuelMwanzia_668694/
 - custom_data.csv # Synthetic sales dataset
 - etl_extract.ipynb # Main Jupyter Notebook with code 
 - last_extraction.txt # Tracks the last extraction timestamp
-- README.md # Project summary and instructions
+- README.md # Project summary and instructions 
+
+  Downloads/
+  ├── transformed_full.csv       # Transformed full data
+  ├── transformed_incremental.csv # Transformed incremental data
+  
 # SCREENSHOTS/
 - FullExtraction.png
 - GeneratedData.png
