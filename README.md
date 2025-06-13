@@ -19,8 +19,8 @@ ETL_Extract_SamuelMwanzia_668694/
 - README.md # Project summary and instructions 
 
   Downloads/
-  ├── transformed_full.csv       # Transformed full data
-  ├── transformed_incremental.csv # Transformed incremental data
+- transformed_full.csv       # Transformed full data
+- transformed_incremental.csv # Transformed incremental data
   
 # SCREENSHOTS/
 - FullExtraction.png
