@@ -1,4 +1,4 @@
-# ETL Extract Lab
+# PROJECT TITLE: ETL Extract Lab
 
 - Samuel Mwanzia  
 - Student ID 668694  
@@ -12,15 +12,15 @@ This project demonstrates the concepts of **Full Extraction** and **Incremental 
 
 ## 📁 Project Structure
 ETL_Extract_SamuelMwanzia_668694/
--.gitignore # Excludes unnecessary files
--custom_data.csv # Synthetic sales dataset
--etl_extract.ipynb # Main Jupyter Notebook with code 
--last_extraction.txt # Tracks the last extraction timestamp
--README.md # Project summary and instructions
-SCREENSHOTS/
-FullExtraction.png
-GeneratedData.png
-IncrementalExtractions.png
+- .gitignore # Excludes unnecessary files
+- custom_data.csv # Synthetic sales dataset
+- etl_extract.ipynb # Main Jupyter Notebook with code 
+- last_extraction.txt # Tracks the last extraction timestamp
+- README.md # Project summary and instructions
+# SCREENSHOTS/
+- FullExtraction.png
+- GeneratedData.png
+- IncrementalExtractions.png
 
 ## 🛠️ Tools Used
 
